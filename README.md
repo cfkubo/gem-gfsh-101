@@ -203,13 +203,20 @@ Ports: Default locator port is 10334. Ensure no port conflicts.
 Security: This guide is for basic learning and doesn't cover security. GemFire has robust security features for production.
 
 
-Next Steps in Learning
+### Next Steps in Learning
+
 Explore Region Types: PARTITION_REDUNDANT, PERSISTENT, etc.
+
 Data Serialization: Learn about GemFire data serialization.
+
 Querying: Use gfsh to run OQL queries.
+
 Functions: Explore server-side functions for data processing.
+
 Continuous Query (CQ): Learn about real-time data updates.
+
 Monitoring & Management: Dive deeper into gfsh monitoring commands.
+
 Official Documentation: Refer to the Apache GemFire Documentation.
 
 This guide provides a starting point for learning GemFire with gfsh. Experiment with these commands and consult the official documentation for more advanced topics.
